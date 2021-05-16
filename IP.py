@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import requests
 import bs4
 import numpy as np
-import re
+import re as res
 
 
 def f1():
